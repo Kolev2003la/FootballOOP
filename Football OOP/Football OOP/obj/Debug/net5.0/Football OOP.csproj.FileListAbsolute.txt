@@ -1,0 +1,16 @@
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.csproj.AssemblyReference.cache
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.AssemblyInfoInputs.cache
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.AssemblyInfo.cs
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.csproj.CoreCompileInputs.cache
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.exe
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.deps.json
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.runtimeconfig.json
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.runtimeconfig.dev.json
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.dll
+D:\rabota xd\c#\Football OOP\Football OOP\bin\Debug\net5.0\Football OOP.pdb
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.dll
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\refint\Football OOP.dll
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.pdb
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\Football OOP.genruntimeconfig.cache
+D:\rabota xd\c#\Football OOP\Football OOP\obj\Debug\net5.0\ref\Football OOP.dll
